@@ -4,9 +4,9 @@ import java.util.ArrayList;
 
 /**
 *
-* Nome:
-* Curso:
-* Matrícula:
+* Nome:Alice dos Santos Manguinho da Silva.
+* Curso: IPI 2 período.
+* Matrícula:20222infig0035
 * 
 */
 public class Cliente {
